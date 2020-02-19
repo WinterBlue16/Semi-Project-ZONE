@@ -1,4 +1,4 @@
-# ex-callLAB
+# Semi-Project-ZONE
 
 This repository is a place for uploading semi-project files in Multicampus.
 There are 4 projects in here. 
@@ -18,3 +18,5 @@ There are 4 projects in here.
 ## 4. Carplate detection
 ![3](https://user-images.githubusercontent.com/58945760/73834633-64dc5900-484f-11ea-99d3-cd6411f40c5a.png)
 ![1](https://user-images.githubusercontent.com/58945760/73834668-76bdfc00-484f-11ea-8615-73ff1fded9a0.png)
+
+## 5. Show me my attendence score
