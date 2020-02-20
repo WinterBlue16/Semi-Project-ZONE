@@ -49,9 +49,11 @@ There are 5 projects in here.
 <br>
 <br>
 - 홈페이지 메인 화면
+<br>
 ![홈페이지 화면](https://user-images.githubusercontent.com/58945760/74927538-2633ca80-541b-11ea-84c3-6bbcdfeffea5.png)
 <br>
 <br>
 - 이름 입력 부분
+<br>
 ![캡처](https://user-images.githubusercontent.com/58945760/74927583-3d72b800-541b-11ea-8cb9-88adf869abfc.PNG)
 
