@@ -45,7 +45,11 @@ There are 5 projects in here.
 <br>
 - Django를 활용하여 교육 수료까지 결석할 수 있는 시간을 계산, 수강생 개인별 출석 현황까지 알려주는 웹 페이지 제작
 - Codepen, Mobirise, fondawesome 활용
-<br>
-<br>
-<br>
-![홈페이지 화면](https://user-images.githubusercontent.com/58945760/74927538-2633ca80-541b-11ea-84c3-6bbcdfeffea5.png)
+
+- 홈페이지 메인 화면
+![홈페이지 화면](https://user-images.githubusercontent.com/58945760/74927814-ad813e00-541b-11ea-8734-c35cdc796cdc.png)
+
+
+
+- 이름 입력 부분
+![캡처](https://user-images.githubusercontent.com/58945760/74927816-aeb26b00-541b-11ea-84d5-b3b4d07fefbc.PNG)
