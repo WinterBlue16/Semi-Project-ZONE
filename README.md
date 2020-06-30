@@ -18,7 +18,7 @@
 ![p04zmljn](https://user-images.githubusercontent.com/58945760/73834418-031bef00-484f-11ea-9afe-5c6cb19c014d.jpg)
 > 가장 유명한 dataset 중 하나인 타이타닉 승객 dataset을 활용하여 승객들을 생존, 사망으로 분류하였다. 모델링에서 과정 중 배운 다양한 머신러닝 모델을 이용하여 정확도를 비교하였고, 보다 효과적인 모델을 찾으려 시도하였다. 
 <br>
-- DecisionTree, RandombForest, XGBoost 등 다수의 Mechine Learning Model을 적용하여 성능 비교.
+- DecisionTree, RandombForest, XGBoost 등 다수의 Mechine Learning Model을 적용하여 성능 비교.<br>
 - 모델 적용 및 시각화 담당
 <br>
 <br>
@@ -36,7 +36,7 @@
 ![1](https://user-images.githubusercontent.com/58945760/73834668-76bdfc00-484f-11ea-8615-73ff1fded9a0.png)
 > OpenCV를 활용하여 번호판만으로 전체 자동차를 찾아낼 수 있는 검색기를 만들려 시도하였다. 
 <br>
-- OpenCV를 활용하여 자동차 번호판의 정보 추출, 번호판 정보만으로 원본 차와 Matching하는 프로그램 제작
+- OpenCV를 활용하여 자동차 번호판의 정보 추출, 번호판 정보만으로 원본 차와 Matching하는 프로그램 제작<br>
 - 원본 사진에서 자동차 번호판 슬라이싱, 정보 추출 및 데이터 전처리 담당 
 <br>
 <br>
@@ -47,6 +47,7 @@
 
 - Django를 활용하여 교육 수료까지 결석할 수 있는 시간을 계산, 수강생 개인별 출석 현황까지 알려주는 웹 페이지 제작
 - Codepen, Mobirise, fondawesome 활용
+- 화면 계획서 작성과 교육생 출석 데이터셋 만들기, 출석 현황 결과 페이지 디자인 담당
 
 - 홈페이지 메인 화면
 ![홈페이지 화면](https://user-images.githubusercontent.com/58945760/74927814-ad813e00-541b-11ea-8734-c35cdc796cdc.png)
