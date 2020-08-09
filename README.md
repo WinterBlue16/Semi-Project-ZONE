@@ -56,3 +56,18 @@
 
 - 이름 입력 부분
 ![캡처](https://user-images.githubusercontent.com/58945760/74927816-aeb26b00-541b-11ea-84d5-b3b4d07fefbc.PNG)
+
+- 결과 페이지
+> 출석률 
+
+![출석 웹페이지](https://user-images.githubusercontent.com/58945760/89731864-83810e00-da85-11ea-9740-9aeefbea53e9.PNG)
+![김충희 출석시간](https://user-images.githubusercontent.com/58945760/89731875-98f63800-da85-11ea-97f6-73276179f8d8.PNG)
+
+> 결석가능일수 & 결석가능시간
+
+![결석가능시간](https://user-images.githubusercontent.com/58945760/89731889-b6c39d00-da85-11ea-8e12-8771955ecbb3.PNG)
+
+> 요일별 출석률
+
+![일별 출석율](https://user-images.githubusercontent.com/58945760/89731899-cc38c700-da85-11ea-8186-9267eac8ef05.PNG)
+
