@@ -34,7 +34,7 @@ Message: unknown error: Element <button class="reply_count #reply ?c_title=%EB%8
 
 <urllib3.connection.HTTPConnection object at 0x0000029724177940>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다
 
-MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=1043): Max retries exceeded with url: /session/c31957f44c7b7ead26ad1ed516451be4/elements (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029723DE6A90>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다'))
+MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=): Max retries exceeded with url: /session/c31957f44c7b7ead26ad1ed516451be4/elements (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029723DE6A90>: Failed to establish a new connection: [WinError 10061] 대상 컴퓨터에서 연결을 거부했으므로 연결하지 못했습니다'))
 
 **답글 보기 클릭 이슈를 해결하기 위해 뉴스 기사 한 페이지만 샘플로 크롤링해 보려 시도했을 때 발생**
 
