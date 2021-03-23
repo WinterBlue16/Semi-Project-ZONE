@@ -42,7 +42,9 @@
 <br>
 
 ## 5. How many days can I be absent?
-![not-back-to-school](https://user-images.githubusercontent.com/58945760/74927190-8118f200-541a-11ea-8ef7-2370b2e15234.jpg)
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/58945760/112135792-83e3a900-8c11-11eb-83c9-234c90932f38.gif)
+
 > 면접, 다양한 시험 응시 등으로 수료 시간을 다 채우지 못할까 걱정하는 수강생들의 고민에서 출발해 얼마나 결석할 수 있는지를 상세히 알려주는 웹페이지를 만들었다.
 
 - Django를 활용하여 교육 수료까지 결석할 수 있는 시간을 계산, 수강생 개인별 출석 현황까지 알려주는 웹 페이지 제작
@@ -50,11 +52,13 @@
 - [화면 계획서](https://github.com/WinterBlue16/MulticampusAI_SemiProject/blob/master/SP05_Attendence_Check/Semi-project%2005_%ED%99%94%EB%A9%B4%EA%B3%84%ED%9A%8D%EC%84%9C.md#semi-project-05_%ED%99%94%EB%A9%B4%EA%B8%B0%ED%9A%8D%EC%84%9C) 작성과 교육생 출석 데이터셋 만들기, 출석 현황 결과 페이지 디자인 담당
 
 - 홈페이지 메인 화면
+
 ![홈페이지 화면](https://user-images.githubusercontent.com/58945760/74927814-ad813e00-541b-11ea-8734-c35cdc796cdc.png)
 
 
 
 - 이름 입력 부분
+
 ![캡처](https://user-images.githubusercontent.com/58945760/74927816-aeb26b00-541b-11ea-84d5-b3b4d07fefbc.PNG)
 
 - 결과 페이지
